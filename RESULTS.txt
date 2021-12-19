@@ -1,0 +1,60 @@
+================================
+Epochs     : 10
+Batch Size : 8
+Timestamp  : 48
+Mean Squared Error : 0.75
+R^2 : 0.92
+================================
+Epochs     : 9
+Batch Size : 8
+Timestamp  : 48
+Mean Squared Error : 0.39
+R^2 : 0.96
+================================
+Epochs     : 8
+Batch Size : 8
+Timestamp  : 48
+Mean Squared Error : 0.23
+R^2 : 0.98
+================================
+Epochs     : 7
+Batch Size : 8
+Timestamp  : 48
+Mean Squared Error : 0.36
+R^2 : 0.97
+================================
+Epochs     : 6
+Batch Size : 8
+Timestamp  : 48
+Mean Squared Error : 0.40
+R^2 : 0.96
+================================
+Epochs     : 5
+Batch Size : 8
+Timestamp  : 48
+Mean Squared Error : 0.47
+R^2 : 0.95
+================================
+Epochs     : 4
+Batch Size : 8
+Timestamp  : 48
+Mean Squared Error : 0.55
+R^2 : 0.93
+================================
+Epochs     : 3
+Batch Size : 8
+Timestamp  : 48
+Mean Squared Error : 0.67
+R^2 : 0.92
+================================
+Epochs     : 2
+Batch Size : 8
+Timestamp  : 48
+Mean Squared Error : 0.73
+R^2 : 0.89
+================================
+Epochs     : 1
+Batch Size : 8
+Timestamp  : 48
+Mean Squared Error : 1.78
+R^2 : 0.88
